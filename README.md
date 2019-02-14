@@ -6,7 +6,7 @@ Construção de CRUD Firebase
 Requisições ajax através do axios 
 ```
 
-# Para acessar a aplicação acesse <a href="https://emersonspereira.github.io/vueJS-axios-firebase/">vueJS-axios-firebase</a>
+# Para acessar a aplicação click no link: <a href="https://emersonspereira.github.io/vueJS-axios-firebase/">vueJS-axios-firebase</a>
 
 
 ## Project setup
